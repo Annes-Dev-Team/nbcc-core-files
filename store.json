@@ -10,5 +10,11 @@
     "pastebin":"2h0b6L2B",
     "file":"blit8",
     "desc":"Command-line CHIP-8 emulator"
+  },
+  {
+    "title": "Fallout 4 hacking",
+    "pastebin": "QEL3nJWD",
+    "file": "fallout4",
+    "desc": "Recreation of the fallout 4 minigame"
   }
 ]
