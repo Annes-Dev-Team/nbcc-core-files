@@ -4,5 +4,11 @@
     "pastebin": "L7wYcUgc",
     "file":"flappy",
     "desc":"Clone of the mobile game!"
+  },
+  {
+    "title": "BLIT-8",
+    "pastebin":"2h0b6L2B",
+    "file":"blit8",
+    "desc":"Command-line CHIP-8 emulator"
   }
 ]
